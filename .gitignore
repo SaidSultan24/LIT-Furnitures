@@ -5,6 +5,7 @@ wp-includes/**
 wp-content/plugins/**
 wp-content/uploads/**
 wp-content**
+!wp-content/themes/litfurniture/**
 
 .htaccess
 index.php
