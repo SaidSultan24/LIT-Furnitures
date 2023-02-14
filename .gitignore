@@ -4,6 +4,7 @@ wp-admin/**
 wp-includes/**
 wp-content/plugins/**
 wp-content/uploads/**
+wp-content**
 
 .htaccess
 index.php
